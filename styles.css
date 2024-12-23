@@ -152,4 +152,10 @@ section.news{
         margin: 0;
         margin-top: -100px;
     }
+    .topnav a{
+        font-size: 13px;
+    }
+    section.news{
+        padding: 40px;
+    }
 }
